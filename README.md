@@ -7,7 +7,7 @@ This repository contains a custom OpenCore EFI configuration for running macOS o
 - **MOBO**: Asus Hero z890  
 - **CPU**: Intel core ultra 285k 
 - **GPU**: AMD Radeon 6900XT (16GiB)  
-- **SSD**: Samsung 990 Pro 2TiB  
+- **SSD**: Samsung 9100 Pro 2TiB Pcie5
 - **RAM**: 48GiB (2x24GiB @ 8400MTs) - CU DIMM 
 - **Display**: LG Ultragear+ OLED 45" 5k2k (PbP 2x)
 - **macOS Version**: Sequoia 15.71  
