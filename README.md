@@ -1,4 +1,4 @@
-# 💻 EFI for z890 Intel core ultra 285k (macOS)
+# 💻 EFI for z890 Intel core ultra 9 285k (macOS)
 
 This repository contains a custom OpenCore EFI configuration for running macOS on the **Dell Precision 5550** with the following hardware:
 
